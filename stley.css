@@ -1,0 +1,97 @@
+.h6:hover{
+    border-bottom: darkred solid;
+     
+    cursor: pointer;
+  
+}
+.h6{
+ transition-duration: .4s;
+}
+.Account{
+  width: 80px !important;
+  height: 20px !important;
+}
+h6{
+  font-family: sans-serif;
+}
+.h1{
+  color: #2E2E2E;
+  font-size: 65px !important;
+}
+.p{
+  width: 65% !important;
+}
+.menu:hover{
+  color: darkred !important;
+  border-bottom: darkred solid; 
+  cursor: pointer;
+}
+.menu{
+  transition-duration: .5s;
+}
+.box{
+  width: 90% !important;
+}
+.quti{
+  background-color: #F3D9D9;
+  width: 85px;
+  height: 85px;
+  border-radius: 50% !important;
+}
+.text{
+  font-size: 10.5px;
+}
+.icon{
+  font-size: 65px;
+}
+.box1{
+  width: 82px !important;
+  height: 25px;
+  background: #FFE87A;
+  font-size: 10px;
+  font-weight: bold;
+  margin-top: 3px;
+}
+.yozuv{
+  font-size: 13px !important;
+}
+._box{
+   position: absolute;
+   top: -58px;
+   z-index: 666;
+   right: -11%;
+   position: relative;
+  
+}
+/* ._box_{
+  position: absolute;
+
+}
+.logo_{
+  position: absolute;
+  left: 30%;
+}
+._logo_{
+  position: absolute;
+  top: 500%;
+  left: 70% !important;
+} */
+.footer{
+  background-color:#B00000 ;
+}
+.buuton{
+  background-color: #B00000 !important;
+}
+.div{
+  width: 100%;
+}
+#flexSwitchCheckChecked{
+  background-color: #B00000 !important;
+  width: 100px  !important;
+  height: 50px !important;
+  box-shadow: none;
+  padding: 10%;
+  margin-bottom: 50%;
+  
+
+}
